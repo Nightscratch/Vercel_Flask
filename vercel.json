@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/.*"， "dest": "/api/run.py"}
+    { "src": "/.*", "dest": "/app/run.py"}
   ]
 }
